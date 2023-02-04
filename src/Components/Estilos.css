@@ -1,0 +1,56 @@
+.textStyle {
+    text-decoration: none;
+    font-size: 16px;
+    color: "#4F5361";
+    
+    --background-color: #333;
+    --cursor: pointer;
+
+}
+
+.textStyle {
+    text-decoration: none;
+    font-size: 16px;
+    color: "#4F5361";
+    
+    --background-color: #333;
+    --cursor: pointer;
+
+}
+
+.textStyle:hover {
+    text-decoration: none;
+    font-size: 16px;
+    color: "#fff";
+    --cursor: pointer;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header {
+    border-top: 1px solid white;
+    background: white;
+    color: #333;
+    height: 150px;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+    text-align: center
+}
+
+.menu {
+    height: 100px;
+    width: 100%;
+    --background-color: #333;
+    --color: white;
+    text-align: center;
+}
+
+.wrapper {
+    height: 1000px;
+    width: 100%;
+    padding-top: 20px
+}
